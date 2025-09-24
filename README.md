@@ -31,3 +31,4 @@ Correlation between delivery time and rating
 Operational bottlenecks in certain delivery zones
 
 How to Run
+jupyter notebook Foodhub_Project.ipynb
